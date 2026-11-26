@@ -2,3 +2,4 @@ User-agent: *
 Disallow:
 
 Sitemap: https://j13343sh.github.io/Rune-Factory-Inheritance-Research/sitemap.xml
+Sitemap: https://rf-sitemap-test.pages.dev/sitemap.xml
